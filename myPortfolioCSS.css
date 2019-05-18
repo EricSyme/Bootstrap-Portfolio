@@ -1,0 +1,64 @@
+body {
+	background-image:url("portImg/gradient2.jpg");
+	background-repeat: no-repeat;
+	height:100%;
+	width:auto;
+	background-position: center;
+	background-size: cover;
+		/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+
+}
+
+.divImg{
+	padding:15px 0 15px 0;
+	width:100%; 
+	height:250px;
+}
+
+.divTitle {
+	padding: 5px 0 0 0;
+}
+
+.divBody {
+	background-color:rgb(255, 250, 240, .70);
+	height:425px;
+	margin: 0 0 0 0;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.img-thumbnail {
+	width: 25%;
+	height:auto;
+}
+
+.modal-body {
+	background-image:url("planet.png");
+	background-repeat: no-repeat;
+	height:100%;
+	width:auto;
+	color: floralwhite;
+	-webkit-text-stroke-width: .5px;
+	-webkit-text-stroke-color: red; font-size: 20px;
+ }
+  
+.modal-header {
+background-image:url("portImg/work.jpg");
+background-repeat: no-repeat;
+width:100%;
+position: center;
+color: floralwhite;
+-webkit-text-stroke-width: .5px;
+-webkit-text-stroke-color: red; font-size: 20px
+}
+
+.btnx {
+color: floralwhite;
+}
+
+body {
+	font-family: 'Passion One', cursive;
+}
