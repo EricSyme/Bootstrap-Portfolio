@@ -2,11 +2,13 @@ body {
 	background-image:url("/portImg/gradient2.jpg");
 	background-repeat: no-repeat;
 	height:100%;
-	width:auto;
 	background-position: center;
 	background-size: cover;
 		/* Create the parallax scrolling effect */
 	background-attachment: fixed;
+	max-width: 100%;
+    overflow-x: hidden;
+	
 
 }
 
@@ -36,7 +38,7 @@ body {
 }
 
 .modal-body {
-	background-image:url("planet.png");
+	background-image:url("/portImg/planet.png");
 	background-repeat: no-repeat;
 	height:100%;
 	width:auto;
@@ -46,7 +48,7 @@ body {
  }
   
 .modal-header {
-background-image:url("portImg/work.jpg");
+background-image:url("/portImg/work.jpg");
 background-repeat: no-repeat;
 width:100%;
 position: center;
