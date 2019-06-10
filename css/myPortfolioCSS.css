@@ -24,7 +24,7 @@ body {
 
 .divBody {
 	background-color:rgb(255, 250, 240, .70);
-	height:425px;
+	height:auto;
 	margin: 0 0 0 0;
 }
 
